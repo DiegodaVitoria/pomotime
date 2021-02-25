@@ -8,7 +8,7 @@ export function Profile(){
      <strong>Diego da Vitoria</strong>
      <p>
       <img src="icons/level.svg" alt="level"/>
-      Level</p>
+      Level 3</p>
     </div>
   </div>
  );
