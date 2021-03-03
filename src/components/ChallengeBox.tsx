@@ -10,7 +10,7 @@
       <header>Ganhe R$:25,00</header>
 
       <main>
-       <img src="icons/picpay-logo.svg" alt="" />
+       <img src="icons/picpay.svg" alt="" />
        <strong>Novo desafio</strong>
        <p>Doe sangue no Hemoes até 15 de março.</p>
       </main>
